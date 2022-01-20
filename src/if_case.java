@@ -7,7 +7,7 @@ public class if_case {
         String role = scanner.nextLine();
         System.out.print("Введите пароль : ");
         String pass = scanner.nextLine();
-        if ( role.equals("Admin") ){
+        if ( role.equals("Admin") && pass.equals("123321") ){
             System.out.print("У Вас есть доступ к базе");
         }
         else{
