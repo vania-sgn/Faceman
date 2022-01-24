@@ -1,3 +1,5 @@
+package ARRAYS;
+
 public class arr_min {
     public static void main(String[] args) {
         int[] a = new int[] {-14, 23, 9, -4, 12, -1};

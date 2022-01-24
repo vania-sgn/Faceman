@@ -1,3 +1,5 @@
+package ARRAYS;
+
 public class min_value {
     public static void main(String[] args) {
         int[] array= new int[] {12, 64,45,34,12,-100,12,8};
