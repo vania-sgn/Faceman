@@ -1,6 +1,5 @@
-package ARRAYS;
+package ARRAYS_COLLECTION;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Array {

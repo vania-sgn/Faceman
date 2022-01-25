@@ -1,4 +1,4 @@
-package ARRAYS;
+package ARRAYS_COLLECTION;
 
 public class min_value {
     public static void main(String[] args) {

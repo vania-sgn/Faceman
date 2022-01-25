@@ -1,4 +1,4 @@
-package ARRAYS;
+package ARRAYS_COLLECTION;
 
 public class array_matrix {
 

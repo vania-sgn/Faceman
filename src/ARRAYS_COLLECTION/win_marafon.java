@@ -1,4 +1,4 @@
-package ARRAYS;
+package ARRAYS_COLLECTION;
 
 public class win_marafon {
 
