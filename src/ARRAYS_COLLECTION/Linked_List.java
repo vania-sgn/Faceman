@@ -25,6 +25,7 @@ public class Linked_List {
         while(i < probability.size()) {
             System.out.println("Элемент равен: " + probability.get(i));
             i++;
+
         }
     }
 }
