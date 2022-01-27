@@ -11,7 +11,7 @@ public class Main_dz2 {
     school.printAll();
     kidgarden.printAll();
 
-    System.out.println (school.countYears (2018));
+    System.out.println ("Школа построена " + school.countYears (2018)+ " года назад");
     System.out.println (kidgarden.countYears (2018));
 }
 
