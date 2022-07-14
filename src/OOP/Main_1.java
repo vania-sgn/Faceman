@@ -18,5 +18,4 @@ public class Main_1 {
 
         //System.out.println(" BMW SPEDD "+ bmw.speed + " Truck speed " + truck.speed);
     }
-
 }
