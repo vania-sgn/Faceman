@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ZAD_3_1 {
     public static void main (String[] args) {
-        int MAXVALUE = 35;
+        int MAXVALUE = 5;
         int sum = 0;
         int count = 0;
         int a, b;
