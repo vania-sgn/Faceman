@@ -30,6 +30,7 @@ public class ZAD_5_0 {
             }
             System.out.println();
         }
+        System.out.println("Массив 5*2 (максимальное и минимальное значение):");
         for (int i = 0; i < arr.length; i++) {
             int min = arr[i][0];
             int max = arr[i][0];
@@ -45,7 +46,9 @@ public class ZAD_5_0 {
 
 
                 }
-                System.out.print("Максимальный элемент " + max + " Минимальный элемент " + min + " \n\n");
+
+                System.out.print(max+" "+min+'\n');
+                //System.out.print("Максимальный элемент " + max + " Минимальный элемент " + min);
 
             }
         }
